@@ -1,3 +1,4 @@
-# cours_intro_python
+# Mon oeuvr surréaliste
 
-Ce depot à pour but de se familiariser avec github
+Le chêne un jour dit au roseau :
+Vous avez bien sujet d'acuser la Nature
